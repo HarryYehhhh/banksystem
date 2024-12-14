@@ -1,0 +1,26 @@
+!SESSION 2024-12-14 16:13:06.973 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=zh_TW_#Hant
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/yehhungwei/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/yehhungwei/.eclipse_keyring -data /Users/yehhungwei/banksystem/demo
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-14 16:13:08.426
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-14 16:13:09.360
+!MESSAGE Logback config file: /Users/yehhungwei/banksystem/demo/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-12-14 16:46:59.088 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=zh_TW_#Hant
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/yehhungwei/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/yehhungwei/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-14 16:47:00.984
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-14 16:47:07.412
+!MESSAGE Logback config file: /Users/yehhungwei/banksystem/demo/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
